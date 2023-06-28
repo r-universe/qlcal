@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "qlcal"]
 	path = qlcal
 	url = https://github.com/qlcal/qlcal-r
-	shallow = true
-	registered = true
